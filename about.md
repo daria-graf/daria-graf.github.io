@@ -4,6 +4,10 @@ title: About
 permalink: /about/
 ---
 
-Hello there! I am a Software Engineer who loves building easy to use software products.
-I specialize in building web-based applications with modern JavaScript frameworks like Vue.js and Angular.
-My favourite testing framework is Cypress.
+Hello there! I am Daria a Software Engineer who loves building easy to use software products.
+
+With over a decade of experience in software development, I possess expertise in crafting innovative solutions through strategic combinations of usability engineering, requirement engineering, and software engineering.
+
+My technical skillset encompasses web-based applications built using Angular, Vue.js, CSS, HTML, Java, and AWS Cloud services, as well as proficiency in testing frameworks such as Cypress, Jest, Vitest and Sinon.JS.
+
+Throughout my career, I remain committed to delivering high-quality software that not only enhances user experience but also drives business success.
